@@ -1,5 +1,5 @@
 
-# Library Mgmt Sys
+# Library Management System
 
 This is C Language project based on the file-handling.
 It basically provides the functionalities of Adding, Searching, Deleting and Issuing the particulars.
