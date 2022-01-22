@@ -2,16 +2,16 @@
 # Library Mgmt Sys
 
 This is C Language project based on the file-handling.
-It basically provides the functionalities of Adding, Viewing, Searching and Issuing the particulars.
+It basically provides the functionalities of Adding, Searching, Deleting and Issuing the particulars.
 
 
 ## Features
 
 
 - Two different panels - Student n Admin.
-- Ease in accessing the Record.
-- Encrypted as it is Password Protected.
-- Monitors the each single Login. 
+- Provide ease in the access of Records.
+- Encrypted as it is password protected.
+- Monitors the each single Login in system. 
 
 
 
